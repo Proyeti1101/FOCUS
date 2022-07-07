@@ -1,0 +1,14 @@
+button {  
+    background-color:coral; 
+    text-align: center; 
+    color: black;  
+    font-size: 40px;  
+    margin: auto;  
+    }  
+    button:hover,input[type=button]:hover
+    {
+        background-color:teal;
+    }
+    body{
+        background-color:lightcyan;
+    }

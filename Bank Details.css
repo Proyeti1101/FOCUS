@@ -1,0 +1,29 @@
+header{
+    font-family: verdana;
+    font-size: 45px;
+    color: rgb(226, 35, 140);
+    text-align: center;
+}
+select{
+    width:150px;
+    margin:10px;
+    align-self: start;
+}
+select:focus{
+    min-width: 150px;
+    width:auto;
+    align-self: start;
+}
+
+label{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(22, 199, 155);
+    text-align:center;  
+}
+option{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color: rgb(113, 90, 240);
+    text-align:center; 
+}

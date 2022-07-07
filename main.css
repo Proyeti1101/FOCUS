@@ -1,0 +1,13 @@
+
+  
+  button{
+          color: rgb(255, 0, 128);
+          text-align: left;
+          font-size: 40px;
+          display: block;
+
+        }
+        button:hover,input[type=button]:hover{
+            background-color:red;
+        }
+        
